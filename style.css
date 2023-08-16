@@ -1,0 +1,35 @@
+* {margin:0;padding:0;border:0;background:0;}
+.box {margin:50px auto;width:90%;border:1px solid lightgrey;height:200px;border-radius:15px;}
+.gl {border-bottom:1px solid lightgrey;}
+.bx {
+  padding:5px 5px;
+
+  }
+#ua {
+  text-align:center;
+  }
+* {
+  margin:0;
+  padding:0;
+  border:0;
+  }
+#username {
+  width:400px;
+  text-align:center;
+  border-bottom:1px solid black;
+  }
+#btn {
+  border:1px solid black;
+  width:200px;
+  }
+#u {
+  width:100px;
+  display:flex;
+  background-color:rgb(90,98,85);
+  }
+#u li {
+  color:wh
+  }
+hr {
+  border-bottom:1px solid lightgrey;
+  }
